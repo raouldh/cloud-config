@@ -1,7 +1,7 @@
 clientId: acme
 secret: acmesecret
 
-security
+security:
   user:
     name: admin
     password: secret
